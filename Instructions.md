@@ -46,3 +46,7 @@ pip install seaborn
 `
 pip install scipy
 `
+
+`
+pip install scikit-guess
+`
